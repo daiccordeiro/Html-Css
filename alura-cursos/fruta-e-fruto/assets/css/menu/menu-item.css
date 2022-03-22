@@ -1,0 +1,7 @@
+.menu-item {
+    list-style: none; /*Tira a 'bolinha' da lista*/
+}
+
+.menu-item:last-child .menu-link {
+    margin-right: 0; /*Tira a margem da direita do ultimo item da lista 'comunidade'*/
+}
