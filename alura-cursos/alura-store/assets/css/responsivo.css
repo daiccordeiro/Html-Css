@@ -1,0 +1,105 @@
+@media screen and (min-width: 0) { /*Utilizado para Celulares*/
+    .destaques-principal, .destaques-categorias {
+        grid-column: 1 / 5;
+    }
+    
+    .destaques-secundario:nth-child(2) {
+        display: none;
+        grid-column: none;
+        grid-row: none;
+    }
+
+    .destaques-secundario:nth-child(3) {
+        display: none;
+        grid-column: none;
+        grid-row: none;
+    }
+
+    .destaques-secundario:nth-child(4) {
+        display: none;
+        grid-column: none;
+        grid-row: none;
+    }
+
+    .destaques-secundario:nth-child(5) {
+        display: none;
+        grid-column: none;
+        grid-row: none;
+    }
+
+    .populares-conteudo {
+        flex-direction: column;
+    }
+
+    .populares-card { 
+        grid-template-rows: 150px auto;
+        margin-bottom: 3rem;
+        margin-right: 0;
+        width: 100%
+    }
+
+    .populares-itens{
+        margin-right: -10px;
+    }
+}
+
+@media screen and (min-width: 768px) { /*Utilizado para Tablets*/
+    .destaques-principal {
+        grid-column: 1 / 4;
+    }
+
+    .destaques-secundario:nth-child(2) {
+        display: flex;
+        grid-column: 4 / 4;
+        grid-row: 1 / 1;
+    }
+
+    .destaques-secundario:nth-child(3) {
+        display: flex;
+        grid-column: 4 / 4;
+        grid-row: 2 / 2;
+    }
+
+    .destaques-secundario:nth-child(4) {
+        display: flex;
+        grid-column: 4 / 4;
+        grid-row: 3 / 3;
+    }
+
+    .destaques-secundario:nth-child(5) {
+        display: flex;
+        grid-column: 3 / 3;
+        grid-row: 3 / 3;
+    }
+
+    .destaques-categorias{
+        grid-column: 1 / 3;
+    }
+
+    .populares-conteudo {
+        flex-direction: row;
+    }
+
+    .populares-card { 
+        grid-template-rows: 173px auto;
+        margin-right: 1rem;
+        width: calc(50% - 1rem);
+    }
+
+    .populares-itens{
+        margin-right: -27px;
+    }
+}
+
+@media screen and (min-width: 992px) { /*Utilizado para Desktops +antigos*/
+    .populares-card {
+        width: calc(33.33% - 1rem);
+    }
+}
+
+@media screen and (min-width: 1200px) { /*Utilizado para Desktops novos e tvs*/
+    .populares-card {
+        margin-bottom: 0; 
+        width: calc(20% - 1rem);
+    }
+}
