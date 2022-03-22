@@ -1,11 +1,11 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=HTML&message=Framework&color=red&style=flat&logo=HTML5">
 <img src="http://img.shields.io/static/v1?label=CSS&message=Framework&color=red&style=flat&logo=CSS3">
-<img src="https://img.shields.io/github/commits-since/daiccordeiro/Estudos-html-css/v1.0.svg">
-<img src="https://img.shields.io/github/forks/daiccordeiro/Estudos-html-css">
-<img src="https://img.shields.io/github/stars/daiccordeiro/Estudos-html-css">
-<img src="https://img.shields.io/github/last-commit/daiccordeiro/Estudos-html-css">
-<img src="https://img.shields.io/github/license/daiccordeiro/Estudos-html-css">
+<img src="https://img.shields.io/github/commits-since/daiccordeiro/html-css/v1.0.svg">
+<img src="https://img.shields.io/github/forks/daiccordeiro/html-css">
+<img src="https://img.shields.io/github/stars/daiccordeiro/html-css">
+<img src="https://img.shields.io/github/last-commit/daiccordeiro/html-css">
+<img src="https://img.shields.io/github/license/daiccordeiro/html-css">
 <img src="http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo">
 </p>
 
