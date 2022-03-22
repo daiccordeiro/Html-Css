@@ -1,0 +1,153 @@
+/* HEADER */
+.cabecalhoPrincipal .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    /*space-between coloca espaço entre os elementos*/
+}
+
+.cabecalhoPrincipal-nav {
+    display: flex;
+}
+
+.rodapePrincipal-patrocinadores .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* MAIN - Nossos Cursos */
+.conteudoPrincipal-cursos{
+    display: flex;
+    flex-wrap: wrap;
+}  
+
+.conteudoPrincipal-cursos-link {
+    width: 23%;    
+    margin: 1%;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n) {
+    margin-right: 0;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1) {
+    margin-left: 0;
+}
+
+/* VÍDEO e Vantagens do Alurinha */
+.videoSobre .container {
+    display: flex;
+}
+
+.videoSobre-sobre {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+}
+
+.videoSobre-sobre-list {
+    flex-grow: 1;
+}
+
+.videoSobre-video {
+    flex-grow: 1;
+}
+
+
+/* FOOTER - Mapa de Cursos */
+.rodapePrincipal-navMap-list {
+    display: flex;
+    /*display flex - alinha as coisas uma ao lado da outra*/
+    flex-direction: column;
+    /*flex-direction - alinha em coluna, pois o comando já vem alinhado como row*/
+    flex-wrap: wrap;
+    /*flex-wrap - quebra para a próxima coluna*/
+    height: 255px;
+    /*flex-flow: column wrap; - une as duas propriedades anteriores*/
+}
+
+/* FOOTER - Rodapé Patrocinadores */
+.rodapePrincipal-patrocinadores .container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /*space-around coloca espaço em volta dos elementos*/
+    width: 70%;
+    margin-right: 5% ;
+}
+
+.rodapePrincipal-contatoForm {
+    width: 25%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
+    display: flex;
+}
+
+/* Responsividade Mobile */
+@media(max-width: 768px){
+
+    .cabecalhoPrincipal-nav {
+    flex-direction:column;
+    }
+
+    .cabecalhoPrincipal .container {
+    flex-direction: column;  
+    align-items: initial;
+    text-align: center;
+    }
+
+    .conteudoPrincipal-cursos {
+    flex-direction: column;
+    }
+
+    .conteudoPrincipal-cursos-link {
+    width:100%;
+    }  
+
+    .rodapePrincipal-navMap-list {
+    height: auto;
+    }
+
+    .rodapePrincipal-patrocinadores .container {
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .rodapePrincipal-contatoForm {
+    width: 100%;
+    }
+
+    .rodapePrincipal-patrocinadores-list {
+    margin: 0;
+    width: 100%;
+    }
+
+    .rodapePrincipal-contatoForm-fieldset {
+    justify-content:center
+    }
+
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+    /*usamos para colocar o 'nosso app' em primeira posição*/
+
+    .videoSobre-video {
+        flex-grow: 1;
+        flex-shrink: 2; 
+    }
+
+    .videoSobre .container {
+        flex-direction: column;
+    }
+
+    .videoSobre-video {
+        margin: 0 auto;
+    }
+}    
