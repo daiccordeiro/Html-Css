@@ -13,7 +13,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/daiccordeiro/Estudos-html-css)](https://github.com/daiccordeiro/Estudos-html-css/issues)-->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/banner-html.png" alt="banner-html-css" width=850 height=350>
+<img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/banner-github/banner-html.png" alt="banner-html-css" width=850 height=350>
 </p>
 
 <p align="center">
