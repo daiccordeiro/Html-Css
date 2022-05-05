@@ -13,6 +13,11 @@
 <a href = "https://github.com/daiccordeiro/html-css/tree/main/alura-cursos/barbearia-alura"><img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/barbearia_alura_logo.png" alt="banner-html-css" width=150 height=150></a>
 </p>
 
+<!-- 
+Barbearia Alura / Apeperia Acessibilidade / Alurinha / Arquitetura CSS / Alura Store / Apeperia Mobile / 
+HZC / Casa Verde / Fruta e Fruto / Top Casa Fina /        
+-->
+
 <p align="center">
  <a href="#sobre">Sobre</a> • 
 <!-- <a href="#status">Status</a> • -->
