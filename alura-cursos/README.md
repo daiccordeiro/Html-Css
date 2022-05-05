@@ -9,11 +9,8 @@
 <img src="http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo">
 </p>
 
-<!--![Badge HTML5](https://img.shields.io/static/v1?label=HTML&message=Framework&color=red&style=flat&logo=HTML5) ![Badge CSS3](http://img.shields.io/static/v1?label=CSS&message=Framework&color=red&style=flat&logo=CSS3) [![GitHub Commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://github.com/daiccordeiro/Naereen/StrapDown.js/commit/) [![GitHub Forks](https://img.shields.io/github/forks/daiccordeiro/Estudos-html-css)](https://github.com/daiccordeiro/Estudos-html-css/network) [![GitHub Stars](https://img.shields.io/github/stars/daiccordeiro/Estudos-html-css)](https://github.com/daiccordeiro/Estudos-html-css/stargazers) [![GitHub License](https://img.shields.io/github/license/daiccordeiro/Estudos-html-css)](https://github.com/daiccordeiro/Estudos-html-css/blob/main/LICENSE) ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo) 
-[![GitHub issues](https://img.shields.io/github/issues/daiccordeiro/Estudos-html-css)](https://github.com/daiccordeiro/Estudos-html-css/issues)-->
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/banner-html.png" alt="banner-html-css" width=850 height=350>
+<a href = "https://github.com/daiccordeiro/html-css/tree/main/alura-cursos/barbearia-alura"><img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/barbearia_alura_logo.png" alt="banner-html-css" width=150 height=150></a>
 </p>
 
 <p align="center">
