@@ -1,4 +1,8 @@
-# Guia de estilos
+<img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/barbearia_alura.png" alt="banner-html-css" width=1050 height=380>
+</p>
+
+Primeiro projeto de criação, usando HTML e CSS
+
 
 
 ## Fonte
