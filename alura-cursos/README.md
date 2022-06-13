@@ -9,14 +9,15 @@
 <img src="http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo">
 </p>
 
+<!-- 
+Barbearia Alura | Apeperia Acessibilidade | Alurinha | Arquitetura CSS | Alura Store | Apeperia Mobile | 
+HZC | Casa Verde | Fruta e Fruto | Top Casa Fina |        
+-->
+
 <p align="center">
-<a href = "https://github.com/daiccordeiro/html-css/tree/main/alura-cursos/barbearia-alura"><img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/barbearia_alura_logo.png" alt="banner-html-css" width=150 height=150></a>
+<a href = "https://github.com/daiccordeiro/html-css/tree/main/alura-cursos/barbearia-alura"><img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/barbearia_alura_logo.png" alt="banner-html-css" width=150 height=150></a> <a href = "https://github.com/daiccordeiro/html-css/tree/main/alura-cursos/alura-store"><img src="https://raw.githubusercontent.com/daiccordeiro/midias/main/imgs/projetos-front/alura_store_logo.png" alt="banner-html-css" width=150 height=150></a>
 </p>
 
-<!-- 
-Barbearia Alura / Apeperia Acessibilidade / Alurinha / Arquitetura CSS / Alura Store / Apeperia Mobile / 
-HZC / Casa Verde / Fruta e Fruto / Top Casa Fina /        
--->
 
 <p align="center">
  <a href="#sobre">Sobre</a> • 
