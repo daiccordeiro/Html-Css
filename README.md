@@ -1,11 +1,11 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=HTML&message=Framework&color=red&style=flat&logo=HTML5">
 <img src="http://img.shields.io/static/v1?label=CSS&message=Framework&color=red&style=flat&logo=CSS3">
-<img src="https://img.shields.io/github/commits-since/daiccordeiro/html-css/v1.0.svg">
-<img src="https://img.shields.io/github/forks/daiccordeiro/html-css">
-<img src="https://img.shields.io/github/stars/daiccordeiro/html-css">
-<img src="https://img.shields.io/github/last-commit/daiccordeiro/html-css">
-<img src="https://img.shields.io/github/license/daiccordeiro/html-css">
+<img src="https://img.shields.io/github/commits-since/daiccordeiro/curso-frontend-html-css-2022/v1.0.svg">
+<img src="https://img.shields.io/github/forks/daiccordeiro/curso-frontend-html-css-2022">
+<img src="https://img.shields.io/github/stars/daiccordeiro/curso-frontend-html-css-2022">
+<img src="https://img.shields.io/github/last-commit/daiccordeiro/curso-frontend-html-css-2022">
+<img src="https://img.shields.io/github/license/daiccordeiro/curso-frontend-html-css-2022">
 <img src="http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo">
 </p>
 
@@ -18,11 +18,11 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> • 
-<!-- <a href="#status">Status</a> • -->
+ <a href="#status">Status</a> •
  <a href="#descrição">Descrição</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <!--<a href="#contribuicao">Contribuição</a> • -->
  <a href="#licença">Licença</a> • 
- <a href="#autor">Autor</a>
+ <!--<a href="#autor">Autor</a> -->
 </p>
 
 ### Sobre
@@ -31,20 +31,20 @@ Estudos das linguagens `HMTL5` e `CSS3`, através das plataformas:
 - :arrow_forward: [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
 ---
 
-<!--### Status
+### Status
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=flat&logo)
 - :warning: **Status do Projeto:** *Em desenvolvimento*
----  -->
+--- 
 
 ### Descrição
- 
+-  
 ---
 
 ### Licença
-![Badge License](http://img.shields.io/static/v1?label=License&message=MIT&color=GREEN&style=flat&logo=MIT)
+- ![Badge License](http://img.shields.io/static/v1?label=License&message=MIT&color=GREEN&style=flat&logo=MIT)
 ---
 
-### Autor
+<!--### Autor-->
 
 <!--#239120 
 
